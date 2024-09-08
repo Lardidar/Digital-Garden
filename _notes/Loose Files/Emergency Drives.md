@@ -1,0 +1,1 @@
+**Emergency Drives**: If you have to perform an emergency take-off while your ship is damaged, reduce the Hull damage sustained on the roll by 3.

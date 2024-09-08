@@ -1,0 +1,1 @@
+**Standard Issue**: The cost of all Starship Components is reduced by 1 credit.

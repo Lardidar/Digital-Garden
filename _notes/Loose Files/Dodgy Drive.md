@@ -1,0 +1,1 @@
+**Dodgy Drive**: Any time the ship takes Hull damage, roll 2D6. If the roll is equal to or below the amount of damage sustained, the drive is misbehaving, and 2 additional points of damage are sustained.

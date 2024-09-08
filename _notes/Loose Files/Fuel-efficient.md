@@ -1,0 +1,1 @@
+**Fuel-efficient**: When traveling to a new world, the fuel cost is reduced by 1 credit.

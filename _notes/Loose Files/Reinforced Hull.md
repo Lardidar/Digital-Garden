@@ -1,0 +1,1 @@
+Any time the ship takes damage, you lose 1 Hull Point less than indicated by the rules.

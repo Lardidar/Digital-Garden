@@ -1,0 +1,1 @@
+**Fuel Hog**: When traveling to a new world, the fuel cost is increased by 1 credit.
